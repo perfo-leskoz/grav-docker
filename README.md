@@ -6,7 +6,7 @@ Repository contains starter pack for Grav based CMS.
 - [ ] Copy repository: `git clone git@github.com:perfo-leskoz/grav-docker.git`
 - [ ] Change working directory: `cd grav-docker`
 - [ ] Build images with docker-compose: `docker-compose up`
-- [ ] Run app page `http://localhost:8080/`
+- [ ] Run app page [http://localhost:8080/](http://localhost:8080/)
 - [ ] Create admin account
 
 ## Grav image contains
